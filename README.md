@@ -24,7 +24,7 @@ Recorded Videos => [ 8 From 160 ]
 
 - [ ] Variables Basic Knowledge
 - [ ] Variables Advanced Knowledge
-- [ ] Soon
+- [ ] Identifiers Name Conventions
 - [ ] Soon
 - [ ] Soon
 - [ ] Soon
