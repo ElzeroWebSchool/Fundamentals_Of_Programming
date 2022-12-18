@@ -28,7 +28,7 @@ Recorded Videos => [ 8 From 160 ]
 - [ ] Soon
 - [ ] Soon
 - [ ] Soon
-- [ ] Soon
+- [ ] Escape Sequences Characters
 
 ### Data Types
 
