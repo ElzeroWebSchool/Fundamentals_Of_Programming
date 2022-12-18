@@ -20,7 +20,7 @@ Recorded Videos => [ 8 From 160 ]
 - [x] `Uploaded` - 007 - C++ Syntax
 - [x] `Uploaded` - 008 - Comments And Use Cases
 
-### Variables And Data Types
+### Variables And Constants
 
 - [ ] Variables Basic Knowledge
 - [ ] Variables Advanced Knowledge
@@ -29,3 +29,13 @@ Recorded Videos => [ 8 From 160 ]
 - [ ] Soon
 - [ ] Soon
 - [ ] Soon
+
+### Data Types
+
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
