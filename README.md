@@ -22,13 +22,14 @@ Recorded Videos => [ 8 From 160 ]
 
 ### Variables And Constants
 
-- [ ] Variables Basic Knowledge
-- [ ] Variables Advanced Knowledge
-- [ ] Identifiers Name Conventions
-- [ ] Soon
-- [ ] Soon
-- [ ] Soon
-- [ ] Escape Sequences Characters
+- [x] `Uploaded` - 009 - Variables Basic Knowledge
+- [x] `Uploaded` - 010 - Variables Naming Rules And Best Practices
+- [ ] 011 - Variables Advanced Knowledge
+- [ ] 012 - Calculate Age Application
+- [ ] 013 - 
+- [ ] 014 - 
+- [ ] 015 - Escape Sequences Characters
+- [ ] 016 - Answer Questions And Discussions
 
 ### Data Types
 
