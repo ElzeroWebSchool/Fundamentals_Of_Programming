@@ -24,11 +24,13 @@ Uploaded Videos => [ 10 From 160 ]
 - [x] `Uploaded` - 009 - Variables Basic Knowledge
 - [x] `Uploaded` - 010 - Variables Naming Rules And Best Practices
 - [ ] 011 - Variables Advanced Knowledge
-- [ ] 012 - Calculate Age Application
-- [ ] 013 - 
-- [ ] 014 - 
-- [ ] 015 - Escape Sequences Characters
-- [ ] 016 - Answer Questions And Discussions
+- [ ] 012 - Variables Scope
+- [ ] 013 - Calculate Age Application
+- [ ] 014 - Escape Sequences Characters
+- [ ] 015 - Constants
+- [ ] 016 - 
+- [ ] 017 - 
+- [ ] 018 - Answer Questions And Discussions
 
 ### Data Types
 
