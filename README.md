@@ -5,9 +5,9 @@
 Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS
 
 
-Recorded Videos => [ 8 From 160 ]
+Recorded Videos => [ 10 From 160 ]
 
-![5%](https://progress-bar.dev/5/?title=Done)
+![6%](https://progress-bar.dev/6/?title=Done)
 
 ### Introduction & How C++ Works
 
