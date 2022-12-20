@@ -4,8 +4,7 @@
 
 Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS
 
-
-Recorded Videos => [ 10 From 160 ]
+Uploaded Videos => [ 10 From 160 ]
 
 ![6%](https://progress-bar.dev/6/?title=Done)
 
