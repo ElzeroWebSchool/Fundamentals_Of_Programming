@@ -23,19 +23,19 @@ Uploaded Videos => [ 10 From 160 ]
 
 - [x] `Uploaded` - 009 - Variables Basic Knowledge
 - [x] `Uploaded` - 010 - Variables Naming Rules And Best Practices
-- [ ] 011 - Variables Advanced Knowledge
-- [ ] 012 - Variables Scope
-- [ ] 013 - Calculate Age Application
-- [ ] 014 - Escape Sequences Characters
-- [ ] 015 - Constants
-- [ ] 016 - 
+- [x] `Uploaded` - 011 - Variables Advanced Knowledge
+- [x] `Uploaded` - 012 - Variables Scope
+- [x] `Uploaded` - 013 - Variables - Constant Variable
+- [x] `Uploaded` - 014 - Calculate Age Application
+- [ ] 015 - Escape Sequences Characters
+- [ ] 016 - Endl vs \n
 - [ ] 017 - 
 - [ ] 018 - Answer Questions And Discussions
 
 ### Data Types
 
-- [ ] -
-- [ ] -
+- [ ] - What Is Data Types In Real Life
+- [ ] - 
 - [ ] -
 - [ ] -
 - [ ] -
