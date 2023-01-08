@@ -4,9 +4,9 @@
 
 Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS
 
-Uploaded Videos => [ 20 From 160 ]
+Uploaded Videos => [ 22 From 160 ]
 
-![12%](https://progress-bar.dev/12/?title=Done)
+![13%](https://progress-bar.dev/13/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -37,7 +37,7 @@ Uploaded Videos => [ 20 From 160 ]
 - [x] `Uploaded` - 019 - Data Types - Float And Double
 - [x] `Uploaded` - 020 - Data Types - Char And ASCII Value
 - [x] 021 - Data Types - Boolean & Void
-- [ ] 022 - Data Types - Modifiers
+- [x] 022 - Data Types - Modifiers & Type Alias
 - [ ] 023 - Data Types - Type Conversion
 - [ ] 024 - 
 - [ ] 025 - 
