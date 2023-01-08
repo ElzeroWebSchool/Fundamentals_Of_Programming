@@ -25,19 +25,21 @@ Uploaded Videos => [ 14 From 160 ]
 - [x] `Uploaded` - 010 - Variables Naming Rules And Best Practices
 - [x] `Uploaded` - 011 - Variables Advanced Knowledge
 - [x] `Uploaded` - 012 - Variables Scope
-- [x] `Uploaded` - 013 - Variables - Constant Variable
+- [x] `Uploaded` - 013 - Variables Constant Variable
 - [x] `Uploaded` - 014 - Calculate Age Application
-- [ ] 015 - Escape Sequences Characters
-- [ ] 016 - Endl vs \n
-- [ ] 017 - 
-- [ ] 018 - Answer Questions And Discussions
+- [ ] `Uploaded` - 015 - Escape Sequences Characters
 
 ### Data Types
 
-- [ ] - What Is Data Types In Real Life
-- [ ] - 
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] `Uploaded` - 016 - Data Types - What Is Data ?
+- [ ] `Uploaded` - 017 - Data Types - Sizes And Memory 
+- [ ] `Uploaded` - 018 - Data Types - Integer
+- [ ] `Uploaded` - 019 - Data Types - Float And Double
+- [ ] `Uploaded` - 020 - Data Types - Char And ASCII Value
+- [ ] 021 - Data Types - Boolean
+- [ ] 022 - Data Types - Type Conversion
+- [ ] 023 - 
+- [ ] 024 - 
+- [ ] 025 - 
+- [ ] 026 - 
+- [ ] 027 - 
