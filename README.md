@@ -4,9 +4,9 @@
 
 Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS
 
-Uploaded Videos => [ 14 From 160 ]
+Uploaded Videos => [ 20 From 160 ]
 
-![9%](https://progress-bar.dev/9/?title=Done)
+![12%](https://progress-bar.dev/12/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -27,15 +27,15 @@ Uploaded Videos => [ 14 From 160 ]
 - [x] `Uploaded` - 012 - Variables Scope
 - [x] `Uploaded` - 013 - Variables Constant Variable
 - [x] `Uploaded` - 014 - Calculate Age Application
-- [ ] `Uploaded` - 015 - Escape Sequences Characters
+- [x] `Uploaded` - 015 - Escape Sequences Characters
 
 ### Data Types
 
-- [ ] `Uploaded` - 016 - Data Types - What Is Data ?
-- [ ] `Uploaded` - 017 - Data Types - Sizes And Memory 
-- [ ] `Uploaded` - 018 - Data Types - Integer
-- [ ] `Uploaded` - 019 - Data Types - Float And Double
-- [ ] `Uploaded` - 020 - Data Types - Char And ASCII Value
+- [x] `Uploaded` - 016 - Data Types - What Is Data ?
+- [x] `Uploaded` - 017 - Data Types - Sizes And Memory 
+- [x] `Uploaded` - 018 - Data Types - Integer
+- [x] `Uploaded` - 019 - Data Types - Float And Double
+- [x] `Uploaded` - 020 - Data Types - Char And ASCII Value
 - [ ] 021 - Data Types - Boolean
 - [ ] 022 - Data Types - Type Conversion
 - [ ] 023 - 
