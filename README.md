@@ -36,10 +36,6 @@ Uploaded Videos => [ 22 From 160 ]
 - [x] `Uploaded` - 018 - Data Types - Integer
 - [x] `Uploaded` - 019 - Data Types - Float And Double
 - [x] `Uploaded` - 020 - Data Types - Char And ASCII Value
-- [x] 021 - Data Types - Boolean & Void
+- [x] `Uploaded` - 021 - Data Types - Boolean & Void
 - [x] 022 - Data Types - Modifiers & Type Alias
-- [ ] 023 - Data Types - Type Conversion
-- [ ] 024 - 
-- [ ] 025 - 
-- [ ] 026 - 
-- [ ] 027 - 
+- [x] 023 - Data Types - Type Conversion
