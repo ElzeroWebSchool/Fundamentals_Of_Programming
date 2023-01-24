@@ -4,9 +4,9 @@
 
 Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS
 
-Uploaded Videos => [ 22 From 160 ]
+Uploaded Videos => [ 28 From 160 ]
 
-![13%](https://progress-bar.dev/13/?title=Done)
+![17%](https://progress-bar.dev/17/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -37,5 +37,15 @@ Uploaded Videos => [ 22 From 160 ]
 - [x] `Uploaded` - 019 - Data Types - Float And Double
 - [x] `Uploaded` - 020 - Data Types - Char And ASCII Value
 - [x] `Uploaded` - 021 - Data Types - Boolean & Void
-- [x] 022 - Data Types - Modifiers & Type Alias
-- [x] 023 - Data Types - Type Conversion Implicit & Explicit 
+- [x] `Uploaded` - 022 - Data Types - Modifiers & Type Alias
+- [x] `Uploaded` - 023 - Data Types - Type Conversion Implicit & Explicit 
+
+### Operators
+
+- [x] `Uploaded` - 024 - Arithmetic Operators
+- [x] `Uploaded` - 025 - Assignment Operators
+- [x] `Uploaded` - 026 - Increment & Decrements Operators
+- [x] `Uploaded` - 027 - Comparison Operators
+- [x] `Uploaded` - 028 - Logical Operators
+- [ ] - 029 - 
+- [ ] - 030 - Operators Precedence
