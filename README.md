@@ -4,6 +4,8 @@
 
 Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS
 
+Study Plan: https://elzero.org/study/cplusplus-study-plan/
+
 Uploaded Videos => [ 28 From 160 ]
 
 ![17%](https://progress-bar.dev/17/?title=Done)
