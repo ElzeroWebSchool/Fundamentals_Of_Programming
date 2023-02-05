@@ -49,5 +49,16 @@ Uploaded Videos => [ 28 From 160 ]
 - [x] `Uploaded` - 026 - Increment & Decrements Operators
 - [x] `Uploaded` - 027 - Comparison Operators
 - [x] `Uploaded` - 028 - Logical Operators
-- [ ] - 029 - 
-- [ ] - 030 - Operators Precedence
+- [x] `Uploaded` - 029 - Operators Precedence
+
+### Control Flow - If Condition
+
+- [x] `Uploaded` - 030 - If Condition Intro
+- [x] If Else If Else
+- [x] Nested If Condition
+- [x] Ternary Conditional Operator
+- [x] Nested Ternary Conditional Operator
+- [x] Trainings - Create 4 Applications
+- [ ] Switch
+- [ ] Switch Advanced
+- [ ] Trainings - Create Two Applications 
