@@ -58,7 +58,43 @@ Uploaded Videos => [ 32 From 160 ]
 - [x] `Uploaded` - 032 - Nested If Condition
 - [x] Ternary Conditional Operator
 - [x] Nested Ternary Conditional Operator
-- [x] Trainings - Create 4 Applications
+- [x] If Condition Trainings - Create 4 Applications
 - [ ] Switch
 - [ ] Switch Advanced
 - [ ] Trainings - Create Two Applications 
+
+### Control Flow - Loop
+
+- [ ] Loop - For
+- [ ] Loop - For Advanced
+- [ ] Loop - For Nested Loop
+- [ ] Loop - For Trainings - Create 4 Applications
+- [ ] Loop - While
+- [ ] Loop - Do ... While
+- [ ] Loop - While Trainings - Create 2 Applications
+- [ ] Loop - Break, Continue
+- [ ] Loop - Go To
+
+### Function
+
+- [ ] Function Introduction
+- [ ] Function Parameters & Arguments
+- [ ] Function Return Statement
+- [ ] Function Types
+- [ ] Function Default Argument
+- [ ] Function Recursion
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+
+### Arrays
+
+- [ ] Array Introduction
+- [ ] Array Initialize And Access Elements
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
