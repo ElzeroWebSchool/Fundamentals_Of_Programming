@@ -62,6 +62,17 @@ Uploaded Videos => [ 34 From 160 ]
 - [x] 036 - Switch, Case
 - [x] 037 - Switch Trainings - Create Three Applications 
 
+### Arrays
+
+- [x] 038 - Arrays - What Is Array
+- [x] 039 - Arrays - Access Elements And Location
+- [x] 040 - Arrays - Add And Update Elements
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+
+
 ### Control Flow - Loop
 
 - [ ] Loop - For
@@ -82,16 +93,6 @@ Uploaded Videos => [ 34 From 160 ]
 - [ ] Function Types
 - [ ] Function Default Argument
 - [ ] Function Recursion
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-
-### Arrays
-
-- [ ] Array Introduction
-- [ ] Array Initialize And Access Elements
 - [ ] -
 - [ ] -
 - [ ] -
