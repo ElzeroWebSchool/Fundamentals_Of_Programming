@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 32 From 160 ]
+Uploaded Videos => [ 34 From 160 ]
 
-![20%](https://progress-bar.dev/20/?title=Done)
+![22%](https://progress-bar.dev/22/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -56,12 +56,11 @@ Uploaded Videos => [ 32 From 160 ]
 - [x] `Uploaded` - 030 - If Condition Intro
 - [x] `Uploaded` - 031 - If Else If Else
 - [x] `Uploaded` - 032 - Nested If Condition
-- [x] Ternary Conditional Operator
-- [x] Nested Ternary Conditional Operator
-- [x] If Condition Trainings - Create 4 Applications
-- [ ] Switch
-- [ ] Switch Advanced
-- [ ] Trainings - Create Two Applications 
+- [x] `Uploaded` - 033 - Ternary Conditional Operator
+- [x] `Uploaded` - 034 - Nested Ternary Conditional Operator
+- [x] 035 - If Condition Trainings - Create 4 Applications
+- [x] 036 - Switch, Case
+- [x] 037 - Switch Trainings - Create Three Applications 
 
 ### Control Flow - Loop
 
