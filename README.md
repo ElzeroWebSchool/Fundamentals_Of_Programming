@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 34 From 160 ]
+Uploaded Videos => [ 38 From 160 ]
 
-![22%](https://progress-bar.dev/22/?title=Done)
+![25%](https://progress-bar.dev/25/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -58,19 +58,23 @@ Uploaded Videos => [ 34 From 160 ]
 - [x] `Uploaded` - 032 - Nested If Condition
 - [x] `Uploaded` - 033 - Ternary Conditional Operator
 - [x] `Uploaded` - 034 - Nested Ternary Conditional Operator
-- [x] 035 - If Condition Trainings - Create 4 Applications
-- [x] 036 - Switch, Case
-- [x] 037 - Switch Trainings - Create Three Applications 
+- [x] `Uploaded` - 035 - If Condition Trainings - Create 4 Applications
+- [x] `Uploaded` - 036 - Switch, Case
+- [x] `Uploaded` - 037 - Switch Trainings - Create Three Applications 
 
-### Arrays
+### Array & String
 
-- [x] 038 - Arrays - What Is Array
-- [x] 039 - Arrays - Access Elements And Location
-- [x] 040 - Arrays - Add And Update Elements
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [x] `Uploaded` - 038 - Array - What Is Array ?
+- [x] 039 - Array - Access Elements And Location
+- [x] 040 - Array - Add And Update Elements
+- [x] 041 - Array - Multidimensional Array
+- [x] 042 - Array - Class Array
+- [x] 043 - Array - Methods And Discussion
+- [ ] 044 - Array - Training - Create Three Applications
+- [x] 045 - String - What Is String ?
+- [x] 046 - String - Concatenation
+- [ ] 047 - String - Methods Overview
+- [ ] 048 - String - Training - Create Three Applications  
 
 
 ### Control Flow - Loop
