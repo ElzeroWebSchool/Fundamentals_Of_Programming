@@ -51,7 +51,7 @@ Uploaded Videos => [ 38 From 160 ]
 - [x] `Uploaded` - 028 - Logical Operators
 - [x] `Uploaded` - 029 - Operators Precedence
 
-### Control Flow - If Condition
+### Control Flow - If Condition & Switch
 
 - [x] `Uploaded` - 030 - If Condition Intro
 - [x] `Uploaded` - 031 - If Else If Else
