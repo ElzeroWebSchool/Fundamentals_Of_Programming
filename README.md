@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 38 From 160 ]
+Uploaded Videos => [ 39 From 160 ]
 
-![25%](https://progress-bar.dev/25/?title=Done)
+![26%](https://progress-bar.dev/26/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -65,7 +65,7 @@ Uploaded Videos => [ 38 From 160 ]
 ### Array & String
 
 - [x] `Uploaded` - 038 - Array - What Is Array ?
-- [x] 039 - Array - Access Elements And Location
+- [x] `Uploaded` - 039 - Array - Access Elements And Memory Location
 - [x] 040 - Array - Add And Update Elements
 - [x] 041 - Array - Multidimensional Array
 - [x] 042 - Array - Class Array
