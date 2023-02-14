@@ -70,7 +70,7 @@ Uploaded Videos => [ 38 From 160 ]
 - [x] 041 - Array - Multidimensional Array
 - [x] 042 - Array - Class Array
 - [x] 043 - Array - Methods And Discussion
-- [ ] 044 - Array - Training - Create Three Applications
+- [x] 044 - Array - Guess The Number Game
 - [x] 045 - String - What Is String ?
 - [x] 046 - String - Concatenation
 - [ ] 047 - String - Methods Overview
