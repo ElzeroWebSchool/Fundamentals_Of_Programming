@@ -79,12 +79,12 @@ Uploaded Videos => [ 40 From 160 ]
 - [x] Loop - For
 - [x] Loop - For Advanced Concepts
 - [x] Loop - For Advanced Trainings
-- [ ] Loop - For Nested Loop
-- [ ] Loop - While
+- [x] Loop - For Nested Loop
+- [x] Loop - While
 - [ ] Loop - Do ... While
-- [ ] Loop - While Trainings - Create 2 Applications
 - [ ] Loop - Break, Continue
 - [ ] Loop - Go To
+- [ ] Loop - Trainings - Create 4 Applications
 
 ### Function
 
