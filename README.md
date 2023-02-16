@@ -6,7 +6,7 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 39 From 160 ]
+Uploaded Videos => [ 40 From 160 ]
 
 ![26%](https://progress-bar.dev/26/?title=Done)
 
@@ -66,23 +66,20 @@ Uploaded Videos => [ 39 From 160 ]
 
 - [x] `Uploaded` - 038 - Array - What Is Array ?
 - [x] `Uploaded` - 039 - Array - Access Elements And Memory Location
-- [x] 040 - Array - Add And Update Elements
+- [x] `Uploaded` - 040 - Array - Add And Update Elements
 - [x] 041 - Array - Multidimensional Array
 - [x] 042 - Array - Class Array
 - [x] 043 - Array - Methods And Discussion
 - [x] 044 - Array - Guess The Number Game
 - [x] 045 - String - What Is String ?
-- [x] 046 - String - Concatenation
-- [ ] 047 - String - Methods Overview
-- [ ] 048 - String - Training - Create Three Applications  
-
+- [x] 046 - String - Concatenation 
 
 ### Control Flow - Loop
 
-- [ ] Loop - For
-- [ ] Loop - For Advanced
+- [x] Loop - For
+- [x] Loop - For Advanced Concepts
+- [x] Loop - For Advanced Trainings
 - [ ] Loop - For Nested Loop
-- [ ] Loop - For Trainings - Create 4 Applications
 - [ ] Loop - While
 - [ ] Loop - Do ... While
 - [ ] Loop - While Trainings - Create 2 Applications
