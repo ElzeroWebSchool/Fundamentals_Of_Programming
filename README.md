@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 40 From 160 ]
+Uploaded Videos => [ 48 From 160 ]
 
-![26%](https://progress-bar.dev/26/?title=Done)
+![30%](https://progress-bar.dev/30/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -67,17 +67,17 @@ Uploaded Videos => [ 40 From 160 ]
 - [x] `Uploaded` - 038 - Array - What Is Array ?
 - [x] `Uploaded` - 039 - Array - Access Elements And Memory Location
 - [x] `Uploaded` - 040 - Array - Add And Update Elements
-- [x] 041 - Array - Multidimensional Array
-- [x] 042 - Array - Class Array
-- [x] 043 - Array - Methods And Discussion
-- [x] 044 - Array - Guess The Number Game
-- [x] 045 - String - What Is String ?
-- [x] 046 - String - Concatenation 
+- [x] `Uploaded` - 041 - Array - Multidimensional Array
+- [x] `Uploaded` - 042 - Array - Class Array
+- [x] `Uploaded` - 043 - Array - Methods And Discussion
+- [x] `Uploaded` - 044 - Array - Guess The Number Game
+- [x] `Uploaded` - 045 - String - What Is String ?
+- [x] `Uploaded` - 046 - String - Concatenation 
 
 ### Control Flow - Loop
 
-- [x] Loop - For
-- [x] Loop - For Advanced Concepts
+- [x] `Uploaded` - 047 - Loop With For
+- [x] `Uploaded` - 048 - Loop With For Advanced Syntax
 - [x] Loop - For Advanced Trainings
 - [x] Loop - For Nested Loop
 - [x] Loop - While
