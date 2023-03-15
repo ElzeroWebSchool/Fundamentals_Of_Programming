@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 48 From 160 ]
+Uploaded Videos => [ 57 From 160 ]
 
-![30%](https://progress-bar.dev/30/?title=Done)
+![38%](https://progress-bar.dev/38/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -78,22 +78,21 @@ Uploaded Videos => [ 48 From 160 ]
 
 - [x] `Uploaded` - 047 - Loop With For
 - [x] `Uploaded` - 048 - Loop With For Advanced Syntax
-- [x] Loop - For Advanced Trainings
-- [x] Loop - For Nested Loop
-- [x] Loop - While
-- [ ] Loop - Do ... While
-- [ ] Loop - Break, Continue
-- [ ] Loop - Go To
-- [ ] Loop - Trainings - Create 4 Applications
+- [x] `Uploaded` - 049 - Loop With For Advanced Trainings
+- [x] `Uploaded` - 050 - Loop With For Nested Loop
+- [x] `Uploaded` - 051 - Loop With While
+- [x] `Uploaded` - 052 - Loop With Do ... While
+- [x] `Uploaded` - 053 - Loop - Break, Continue
+- [x] `Uploaded` - 054 - Loop - Trainings - Create 3 Applications
 
 ### Function
 
-- [ ] Function Introduction
-- [ ] Function Parameters & Arguments
-- [ ] Function Return Statement
-- [ ] Function Types
-- [ ] Function Default Argument
-- [ ] Function Recursion
+- [x] `Uploaded` - 055 - Function - Introduction
+- [x] `Uploaded` - 056 - Function - Parameters
+- [x] `Uploaded` - 057 - Function - Parameters Training
+- [ ] 058 - Function - Default Parameter Value
+- [ ] 059 - Function - Passing Array As Parameter
+- [ ] 060 - Function Return Statement
 - [ ] -
 - [ ] -
 - [ ] -
