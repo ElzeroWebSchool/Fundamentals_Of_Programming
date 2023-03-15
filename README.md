@@ -90,11 +90,31 @@ Uploaded Videos => [ 57 From 150 ]
 - [x] `Uploaded` - 055 - Function - Introduction
 - [x] `Uploaded` - 056 - Function - Parameters
 - [x] `Uploaded` - 057 - Function - Parameters Training
-- [ ] 058 - Function - Default Parameter Value
-- [ ] 059 - Function - Passing Array As Parameter
-- [ ] 060 - Function Return Statement
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [x] 058 - Function - Default Parameter Value
+- [x] 059 - Function - Passing Array As Parameter
+- [ ] 060 - Function - Return And Void
+- [ ] 061 - 
+- [ ] 062 - 
+- [ ] 063 - 
+- [ ] 064 - 
+- [ ] 065 - 
+
+### Solving 50 Problems [ Easy Level ] [ Separate Playlist ]
+
+- [ ] Problem 1 To 3
+- [ ] Problem 4 To 6
+- [ ] Problem 7 To 9
+- [ ] Problem 10 To 12
+- [ ] Problem 13 To 15
+- [ ] Problem 16 To 18
+- [ ] Problem 19 To 21
+- [ ] Problem 22 To 24
+- [ ] Problem 25 To 27
+- [ ] Problem 28 To 30
+- [ ] Problem 31 To 33
+- [ ] Problem 34 To 36
+- [ ] Problem 37 To 39
+- [ ] Problem 40 To 42
+- [ ] Problem 43 To 45
+- [ ] Problem 46 To 48
+- [ ] Problem 49 To 50
