@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 57 From 150 ]
+Uploaded Videos => [ 60 From 150 ]
 
-![38%](https://progress-bar.dev/38/?title=Done)
+![40%](https://progress-bar.dev/40/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -90,9 +90,9 @@ Uploaded Videos => [ 57 From 150 ]
 - [x] `Uploaded` - 055 - Function - Introduction
 - [x] `Uploaded` - 056 - Function - Parameters
 - [x] `Uploaded` - 057 - Function - Parameters Training
-- [x] 058 - Function - Default Parameter Value
-- [x] 059 - Function - Passing Array As Parameter
-- [ ] 060 - Function - Return And Void
+- [x] `Uploaded` - 058 - Function - Default Parameter Value
+- [x] `Uploaded` - 059 - Function - Passing Array As Parameter
+- [x] `Uploaded` - 060 - Function - Return And Void
 - [ ] 061 - 
 - [ ] 062 - 
 - [ ] 063 - 
