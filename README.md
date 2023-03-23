@@ -93,11 +93,50 @@ Uploaded Videos => [ 60 From 150 ]
 - [x] `Uploaded` - 058 - Function - Default Parameter Value
 - [x] `Uploaded` - 059 - Function - Passing Array As Parameter
 - [x] `Uploaded` - 060 - Function - Return And Void
-- [ ] 061 - 
-- [ ] 062 - 
-- [ ] 063 - 
-- [ ] 064 - 
-- [ ] 065 - 
+- [ ] 061 - Function - Forward Declaration
+- [ ] 062 - Pre-Defined Functions Math Functions
+- [ ] 063 - Pre-Defined Functions Part 2
+- [ ] 064 - Pre-Defined Functions Part 3
+- [ ] 065 - Function Overloading
+- [ ] 066 - Function Recursion
+- [ ] 067 - Inline Function => Lambda Expression
+
+### IO Stream
+
+- [ ]
+- [ ]
+- [ ]
+
+### Smart Pointers And References
+
+- [ ]
+- [ ]
+- [ ]
+
+### Vector
+
+- [ ]
+- [ ]
+- [ ]
+
+### Advanced Lessons 
+
+- [ ] String Literals
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+
+
+
+
 
 ### Solving 50 Problems [ Easy Level ] [ Separate Playlist ]
 
