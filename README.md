@@ -94,12 +94,13 @@ Uploaded Videos => [ 60 From 150 ]
 - [x] `Uploaded` - 059 - Function - Passing Array As Parameter
 - [x] `Uploaded` - 060 - Function - Return And Void
 - [x] 061 - Function - Forward Declaration
-- [x] 062 - Pre-Defined Functions Math Functions
-- [ ] 063 - Pre-Defined Functions Part 2
-- [ ] 064 - Pre-Defined Functions Part 3
-- [ ] 065 - Function Overloading
-- [ ] 066 - Function Recursion
-- [ ] 067 - Inline Function => Lambda Expression
+- [x] 062 - Built-In Functions Math Functions
+- [x] 063 - Built-In Functions Training Create 2 Apps
+- [ ] 064 - Built-In Functions Training Create 3 Apps
+- [ ] 065 - Built-In Functions Training Create 2 Apps
+- [ ] 066 - Function Overloading
+- [ ] 067 - Function Recursion
+- [ ] 068 - Inline Function => Lambda Expression
 
 ### IO Stream
 
