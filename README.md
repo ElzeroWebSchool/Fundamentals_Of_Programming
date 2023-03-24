@@ -93,7 +93,7 @@ Uploaded Videos => [ 60 From 150 ]
 - [x] `Uploaded` - 058 - Function - Default Parameter Value
 - [x] `Uploaded` - 059 - Function - Passing Array As Parameter
 - [x] `Uploaded` - 060 - Function - Return And Void
-- [ ] 061 - Function - Forward Declaration
+- [x] 061 - Function - Forward Declaration
 - [ ] 062 - Pre-Defined Functions Math Functions
 - [ ] 063 - Pre-Defined Functions Part 2
 - [ ] 064 - Pre-Defined Functions Part 3
