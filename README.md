@@ -93,7 +93,7 @@ Uploaded Videos => [ 60 From 150 ]
 - [x] `Uploaded` - 058 - Function - Default Parameter Value
 - [x] `Uploaded` - 059 - Function - Passing Array As Parameter
 - [x] `Uploaded` - 060 - Function - Return And Void
-- [x] 061 - Function - Forward Declaration
+- [x] `Uploaded` - 061 - Function - Forward Declaration
 - [x] 062 - Built-In Functions Math Functions
 - [x] 063 - Built-In Functions Training Create 2 Apps
 - [ ] 064 - Built-In Functions Training Create 3 Apps
