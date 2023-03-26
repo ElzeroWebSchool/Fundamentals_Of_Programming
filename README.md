@@ -98,7 +98,7 @@ Uploaded Videos => [ 61 From 150 ]
 - [x] 063 - Built-In Functions Training Create 2 Apps
 - [x] 064 - Built-In Functions Training Create 3 Apps
 - [x] 065 - Function Overloading
-- [ ] 066 - Function Recursion
+- [x] 066 - Function Recursion
 
 ### IO Stream
 
