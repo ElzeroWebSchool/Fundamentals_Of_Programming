@@ -6,7 +6,7 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 60 From 150 ]
+Uploaded Videos => [ 61 From 150 ]
 
 ![40%](https://progress-bar.dev/40/?title=Done)
 
@@ -96,7 +96,7 @@ Uploaded Videos => [ 60 From 150 ]
 - [x] `Uploaded` - 061 - Function - Forward Declaration
 - [x] 062 - Built-In Functions Math Functions
 - [x] 063 - Built-In Functions Training Create 2 Apps
-- [ ] 064 - Built-In Functions Training Create 3 Apps
+- [x] 064 - Built-In Functions Training Create 3 Apps
 - [ ] 065 - Built-In Functions Training Create 2 Apps
 - [ ] 066 - Function Overloading
 - [ ] 067 - Function Recursion
