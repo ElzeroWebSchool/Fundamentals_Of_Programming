@@ -136,10 +136,6 @@ Uploaded Videos => [ 61 From 150 ]
 - [ ] -
 - [ ] -
 
-
-
-
-
 ### Solving 50 Problems [ Easy Level ] [ Separate Playlist ]
 
 - [ ] Problem 1 To 3
@@ -159,3 +155,59 @@ Uploaded Videos => [ 61 From 150 ]
 - [ ] Problem 43 To 45
 - [ ] Problem 46 To 48
 - [ ] Problem 49 To 50
+
+### Implement 50 Function [ Separate Playlist ]
+
+- [ ] Function 1 => Reverse
+- [ ] Function 2 => Replace
+- [ ] Function 3
+- [ ] Function 4
+- [ ] Function 5
+- [ ] Function 6
+- [ ] Function 7
+- [ ] Function 8
+- [ ] Function 9
+- [ ] Function 10
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
