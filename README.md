@@ -97,10 +97,9 @@ Uploaded Videos => [ 61 From 150 ]
 - [x] 062 - Built-In Functions Math Functions
 - [x] 063 - Built-In Functions Training Create 2 Apps
 - [x] 064 - Built-In Functions Training Create 3 Apps
-- [ ] 065 - Built-In Functions Training Create 2 Apps
-- [ ] 066 - Function Overloading
-- [ ] 067 - Function Recursion
-- [ ] 068 - Inline Function => Lambda Expression
+- [x] 065 - Function Overloading
+- [ ] 066 - Function Recursion
+- [ ] 067 - Inline Function => Lambda Expression
 
 ### IO Stream
 
