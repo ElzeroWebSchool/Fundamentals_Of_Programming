@@ -99,10 +99,15 @@ Uploaded Videos => [ 61 From 150 ]
 - [x] 064 - Built-In Functions Training Create 3 Apps
 - [x] 065 - Function Overloading
 - [ ] 066 - Function Recursion
-- [ ] 067 - Inline Function => Lambda Expression
 
 ### IO Stream
 
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
 - [ ] -
 - [ ] -
 - [ ] -
@@ -113,8 +118,23 @@ Uploaded Videos => [ 61 From 150 ]
 - [ ] -
 - [ ] -
 
+### Useful Built-In Functions
+
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+
 ### Vector
 
+- [ ] -
+- [ ] -
+- [ ] -
 - [ ] -
 - [ ] -
 - [ ] -
@@ -122,7 +142,7 @@ Uploaded Videos => [ 61 From 150 ]
 ### Advanced Lessons 
 
 - [ ] String Literals
-- [ ] -
+- [ ] Inline Function => Lambda Expression
 - [ ] -
 - [ ] -
 - [ ] -
