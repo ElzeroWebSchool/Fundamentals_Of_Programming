@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 61 From 150 ]
+Uploaded Videos => [ 62 From 150 ]
 
-![40%](https://progress-bar.dev/40/?title=Done)
+![41%](https://progress-bar.dev/41/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -94,7 +94,7 @@ Uploaded Videos => [ 61 From 150 ]
 - [x] `Uploaded` - 059 - Function - Passing Array As Parameter
 - [x] `Uploaded` - 060 - Function - Return And Void
 - [x] `Uploaded` - 061 - Function - Forward Declaration
-- [x] 062 - Built-In Functions Math Functions
+- [x] `Uploaded` - 062 - Built-In Functions Math Functions
 - [x] 063 - Built-In Functions Training Create 2 Apps
 - [x] 064 - Built-In Functions Training Create 3 Apps
 - [x] 065 - Function Overloading
