@@ -155,7 +155,7 @@ Uploaded Videos => [ 66 From 150 ]
 - [ ] -
 - [ ] -
 
-### Solving 50 Problems [ Easy Level ] [ Separate Playlist ]
+### Solving 180 Problems [ Easy Level ] [ Separate Playlist ]
 
 - [x] Problem 1 To 3
 - [x] Problem 4 To 6
