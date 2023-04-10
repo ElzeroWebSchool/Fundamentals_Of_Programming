@@ -157,23 +157,34 @@ Uploaded Videos => [ 66 From 150 ]
 
 ### Solving 50 Problems [ Easy Level ] [ Separate Playlist ]
 
-- [ ] Problem 1 To 3
-- [ ] Problem 4 To 6
-- [ ] Problem 7 To 9
-- [ ] Problem 10 To 12
-- [ ] Problem 13 To 15
-- [ ] Problem 16 To 18
-- [ ] Problem 19 To 21
-- [ ] Problem 22 To 24
-- [ ] Problem 25 To 27
-- [ ] Problem 28 To 30
-- [ ] Problem 31 To 33
+- [x] Problem 1 To 3
+- [x] Problem 4 To 6
+- [x] Problem 7 To 9
+- [x] Problem 10 To 12
+- [x] Problem 13 To 15
+- [x] Problem 16 To 18
+- [x] Problem 19 To 21
+- [x] Problem 22 To 24
+- [x] Problem 25 To 27
+- [x] Problem 28 To 30
+- [x] Problem 31 To 33
 - [ ] Problem 34 To 36
 - [ ] Problem 37 To 39
 - [ ] Problem 40 To 42
 - [ ] Problem 43 To 45
 - [ ] Problem 46 To 48
 - [ ] Problem 49 To 50
+- [ ] Problem 51 To 53
+- [ ] Problem 54 To 56
+- [ ] Problem 57 To 59
+- [ ] Problem 60 To 62
+- [ ] Problem 63 To 65
+- [ ] Problem 66 To 68
+- [ ] Problem 69 To 71
+- [ ] Problem 72 To 74
+- [ ] Problem 75 To 77
+- [ ] Problem 78 To 80
+- [ ] Problem 81 To 83
 
 ### Implement 50 Function [ Separate Playlist ]
 
