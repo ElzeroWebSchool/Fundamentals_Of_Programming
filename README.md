@@ -102,9 +102,16 @@ Uploaded Videos => [ 66 From 150 ]
 
 ### Vector
 
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] Vector - What Is Vector ?
+- [ ] Vector - Versus Array
+- [ ] Vector - Access, Add And Update Elements
+- [ ] Vector - Methods Part 1
+- [ ] Vector - Methods Part 2
+- [ ] Vector - Loops On Vector Trainings
+- [ ] Vector - Create 3 Applications
+
+### Smart Pointers And References
+
 - [ ] -
 - [ ] -
 - [ ] -
@@ -117,12 +124,6 @@ Uploaded Videos => [ 66 From 150 ]
 - [ ] -
 - [ ] -
 - [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-
-### Smart Pointers And References
-
 - [ ] -
 - [ ] -
 - [ ] -
