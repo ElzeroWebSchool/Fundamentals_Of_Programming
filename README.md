@@ -103,7 +103,7 @@ Uploaded Videos => [ 66 From 150 ]
 ### Vector
 
 - [ ] Vector - What Is Vector ?
-- [ ] Vector - Versus Array
+- [ ] Vector - Compare With Array
 - [ ] Vector - Access, Add And Update Elements
 - [ ] Vector - Methods Part 1
 - [ ] Vector - Methods Part 2
