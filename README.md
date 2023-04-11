@@ -107,6 +107,7 @@ Uploaded Videos => [ 66 From 150 ]
 - [ ] Vector - Access, Add And Update Elements
 - [ ] Vector - Methods Part 1
 - [ ] Vector - Methods Part 2
+- [ ] Vector - Iterator And Trainings
 - [ ] Vector - Loops On Vector Trainings
 - [ ] Vector - Create 3 Applications
 
