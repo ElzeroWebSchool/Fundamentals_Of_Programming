@@ -108,6 +108,7 @@ Uploaded Videos => [ 66 From 150 ]
 - [ ] Vector - Modifiers Part 1
 - [ ] Vector - Modifiers Part 2
 - [ ] Vector - Iterator And Trainings
+- [ ] Vector - Modifiers Part 3
 - [ ] Vector - Loops On Vector Trainings
 - [ ] Vector - Create 3 Applications
 
