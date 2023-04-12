@@ -103,7 +103,7 @@ Uploaded Videos => [ 66 From 150 ]
 ### Vector
 
 - [x] - 067 - Vector - What Is Vector ?
-- [ ] Vector - Compare With Array
+- [x] - 068 - Vector Versus Array
 - [ ] Vector - Access, Add And Update Elements
 - [ ] Vector - Modifiers Part 1
 - [ ] Vector - Modifiers Part 2
