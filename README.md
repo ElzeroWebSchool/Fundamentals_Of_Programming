@@ -108,9 +108,7 @@ Uploaded Videos => [ 66 From 150 ]
 - [x] - 070 - Vector - Functions
 - [x] - 071 - Vector - Iterator & Why To Use
 - [x] - 072 - Vector - Traversing With Iterator
-- [ ] - 073 - Vector - Iterators Trainings
-- [ ] - 074 - Vector - Trainings Create 3 Applications
-- [ ] - 075 - Ranged Loop With For
+- [x] - 073 - Loop With Iterator & Ranged Loop
 
 ### Smart Pointers And References
 
