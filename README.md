@@ -174,7 +174,7 @@ Uploaded Videos => [ 66 From 150 ]
 - [ ] -
 - [ ] -
 
-### Solving 180 Problems [ Easy Level ] [ Separate Playlist ]
+### Solving 180 Problems [ Easy Level ] [ Separate Playlist ] 1 Video = 3 Problems
 
 - [x] 01
 - [x] 02
