@@ -108,7 +108,8 @@ Uploaded Videos => [ 66 From 150 ]
 - [x] - 070 - Vector - Functions
 - [x] - 071 - Vector - Iterator & Why To Use
 - [x] - 072 - Vector - Traversing With Iterator
-- [x] - 073 - Loop With Iterator & Ranged Loop
+- [x] - 073 - Vector - Loop With Iterator & Ranged Loop
+- [x] - 074 - Vector - Count, Sort, Reverse
 
 ### Smart Pointers And References
 
