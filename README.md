@@ -105,10 +105,9 @@ Uploaded Videos => [ 66 From 150 ]
 - [x] - 067 - Vector - What Is Vector ?
 - [x] - 068 - Vector - Versus Array
 - [x] - 069 - Vector - Access, Add, Delete & Update Elements
-- [x] - 070 - Vector - Functions Part 1
-- [ ] Vector - Modifiers Part 2
-- [ ] Vector - Iterator And Trainings
-- [ ] Vector - Modifiers Part 3
+- [x] - 070 - Vector - Functions
+- [ ] - 071 - Vector - Iterators Part 1
+- [ ] - 072 - Vector - Iterators Part 2
 - [ ] Vector - Loops On Vector Trainings
 - [ ] Vector - Create 3 Applications
 
