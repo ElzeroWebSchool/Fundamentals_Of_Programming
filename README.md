@@ -107,7 +107,7 @@ Uploaded Videos => [ 66 From 150 ]
 - [x] - 069 - Vector - Access, Add, Delete & Update Elements
 - [x] - 070 - Vector - Functions
 - [x] - 071 - Vector - Iterator & Why To Use
-- [ ] - 072 - Vector - Traversing With Iterators 
+- [x] - 072 - Vector - Traversing With Iterator
 - [ ] - 073 - Vector - Iterators Trainings
 - [ ] - 074 - Vector - Trainings Create 3 Applications
 - [ ] - 075 - Ranged Loop With For
