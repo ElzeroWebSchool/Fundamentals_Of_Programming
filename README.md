@@ -106,7 +106,7 @@ Uploaded Videos => [ 66 From 150 ]
 - [x] - 068 - Vector - Versus Array
 - [x] - 069 - Vector - Access, Add, Delete & Update Elements
 - [x] - 070 - Vector - Functions
-- [ ] - 071 - Vector - Iterators & Why We Use
+- [x] - 071 - Vector - Iterator & Why To Use
 - [ ] - 072 - Vector - Traversing With Iterators 
 - [ ] - 073 - Vector - Iterators Trainings
 - [ ] - 074 - Vector - Trainings Create 3 Applications
