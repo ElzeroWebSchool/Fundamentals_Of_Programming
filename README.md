@@ -108,8 +108,8 @@ Uploaded Videos => [ 66 From 150 ]
 - [x] - 070 - Vector - Functions
 - [ ] - 071 - Vector - Iterators Part 1
 - [ ] - 072 - Vector - Iterators Part 2
-- [ ] Vector - Loops On Vector Trainings
-- [ ] Vector - Create 3 Applications
+- [ ] - 073 - Vector - Trainings Create 3 Applications
+- [ ] - 074 - Ranged Loop With For
 
 ### Smart Pointers And References
 
