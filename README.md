@@ -115,6 +115,24 @@ Uploaded Videos => [ 66 From 150 ]
 - [ ] -
 - [ ] -
 - [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+
+## Containers Overview
+
+- [ ] Deques
+- [ ] Lists
+- [ ] Forward Lists
+- [ ] Set & Multiset
+- [ ] Map & Multimap
+- [ ] Stack
+- [ ] Queue
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
 
 ### IO Stream
 
@@ -158,87 +176,126 @@ Uploaded Videos => [ 66 From 150 ]
 
 ### Solving 180 Problems [ Easy Level ] [ Separate Playlist ]
 
-- [x] Problem 1 To 3
-- [x] Problem 4 To 6
-- [x] Problem 7 To 9
-- [x] Problem 10 To 12
-- [x] Problem 13 To 15
-- [x] Problem 16 To 18
-- [x] Problem 19 To 21
-- [x] Problem 22 To 24
-- [x] Problem 25 To 27
-- [x] Problem 28 To 30
-- [x] Problem 31 To 33
-- [ ] Problem 34 To 36
-- [ ] Problem 37 To 39
-- [ ] Problem 40 To 42
-- [ ] Problem 43 To 45
-- [ ] Problem 46 To 48
-- [ ] Problem 49 To 50
-- [ ] Problem 51 To 53
-- [ ] Problem 54 To 56
-- [ ] Problem 57 To 59
-- [ ] Problem 60 To 62
-- [ ] Problem 63 To 65
-- [ ] Problem 66 To 68
-- [ ] Problem 69 To 71
-- [ ] Problem 72 To 74
-- [ ] Problem 75 To 77
-- [ ] Problem 78 To 80
-- [ ] Problem 81 To 83
+- [x] 01
+- [x] 02
+- [x] 03
+- [x] 04
+- [x] 05
+- [x] 06
+- [x] 07
+- [x] 08
+- [x] 09
+- [x] 10
+- [x] 11
+- [x] 12
+- [x] 13
+- [x] 14
+- [x] 15
+- [x] 16
+- [x] 17
+- [ ] 18
+- [ ] 19
+- [ ] 20
+- [ ] 21
+- [ ] 22
+- [ ] 23
+- [ ] 24
+- [ ] 25
+- [ ] 26
+- [ ] 27
+- [ ] 28
+- [ ] 29
+- [ ] 30
+- [ ] 31
+- [ ] 32
+- [ ] 33
+- [ ] 34
+- [ ] 35
+- [ ] 36
+- [ ] 37
+- [ ] 38
+- [ ] 39
+- [ ] 40
+- [ ] 41
+- [ ] 42
+- [ ] 43
+- [ ] 44
+- [ ] 45
+- [ ] 46
+- [ ] 47
+- [ ] 48
+- [ ] 49
+- [ ] 50
+- [ ] 51
+- [ ] 52
+- [ ] 53
+- [ ] 54
+- [ ] 55
+- [ ] 56
+- [ ] 57
+- [ ] 58
+- [ ] 59
+- [ ] 60
 
-### Implement 50 Function [ Separate Playlist ]
+### Implement 60 Function [ Separate Playlist ]
 
-- [ ] Function 1 => Reverse
-- [ ] Function 2 => Replace
-- [ ] Function 3
-- [ ] Function 4
-- [ ] Function 5
-- [ ] Function 6
-- [ ] Function 7
-- [ ] Function 8
-- [ ] Function 9
-- [ ] Function 10
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] 01 => Reverse
+- [ ] 02 => Replace
+- [ ] 03
+- [ ] 04
+- [ ] 05
+- [ ] 06
+- [ ] 07
+- [ ] 08
+- [ ] 09
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
+- [ ] 14
+- [ ] 15
+- [ ] 16
+- [ ] 17
+- [ ] 18
+- [ ] 19
+- [ ] 20
+- [ ] 21
+- [ ] 22
+- [ ] 23
+- [ ] 24
+- [ ] 25
+- [ ] 26
+- [ ] 27
+- [ ] 28
+- [ ] 29
+- [ ] 30
+- [ ] 31
+- [ ] 32
+- [ ] 33
+- [ ] 34
+- [ ] 35
+- [ ] 36
+- [ ] 37
+- [ ] 38
+- [ ] 39
+- [ ] 40
+- [ ] 41
+- [ ] 42
+- [ ] 43
+- [ ] 44
+- [ ] 45
+- [ ] 46
+- [ ] 47
+- [ ] 48
+- [ ] 49
+- [ ] 50
+- [ ] 51
+- [ ] 52
+- [ ] 53
+- [ ] 54
+- [ ] 55
+- [ ] 56
+- [ ] 57
+- [ ] 58
+- [ ] 59
+- [ ] 60
