@@ -106,10 +106,11 @@ Uploaded Videos => [ 66 From 150 ]
 - [x] - 068 - Vector - Versus Array
 - [x] - 069 - Vector - Access, Add, Delete & Update Elements
 - [x] - 070 - Vector - Functions
-- [ ] - 071 - Vector - Iterators Part 1
-- [ ] - 072 - Vector - Iterators Part 2
-- [ ] - 073 - Vector - Trainings Create 3 Applications
-- [ ] - 074 - Ranged Loop With For
+- [ ] - 071 - Vector - Iterators & Why We Use
+- [ ] - 072 - Vector - Traversing With Iterators 
+- [ ] - 073 - Vector - Iterators Trainings
+- [ ] - 074 - Vector - Trainings Create 3 Applications
+- [ ] - 075 - Ranged Loop With For
 
 ### Smart Pointers And References
 
