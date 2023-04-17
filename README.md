@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 66 From 150 ]
+Uploaded Videos => [ 68 From 150 ]
 
-![44%](https://progress-bar.dev/44/?title=Done)
+![45%](https://progress-bar.dev/45/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -103,7 +103,7 @@ Uploaded Videos => [ 66 From 150 ]
 ### Vector
 
 - [x] `Uploaded` - 067 - Vector - What Is Vector
-- [x] - 068 - Vector - Versus Array
+- [x] `Uploaded` - 068 - Vector - Versus Array
 - [x] - 069 - Vector - Access, Add, Delete & Update Elements
 - [x] - 070 - Vector - Functions
 - [x] - 071 - Vector - Iterator & Why To Use
