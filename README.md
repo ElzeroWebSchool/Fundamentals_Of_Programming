@@ -111,7 +111,7 @@ Uploaded Videos => [ 69 From 150 ]
 - [x] - 073 - Vector - Loop With Iterator & Ranged Loop
 - [x] - 074 - Vector - Count, Sort, Reverse
 
-### Smart Pointers And References
+### Pointers And References
 
 - [ ] -
 - [ ] -
