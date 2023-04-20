@@ -106,7 +106,7 @@ Uploaded Videos => [ 70 From 150 ]
 - [x] `Uploaded` - 068 - Vector - Versus Array
 - [x] `Uploaded` - 069 - Vector - Access, Add, Update & Delete Elements
 - [x] `Uploaded` - 070 - Vector - Functions
-- [x] - 071 - Vector - Iterator & Why To Use
+- [x] `Uploaded` - 071 - Vector - Iterator & Why To Use
 - [x] - 072 - Vector - Traversing With Iterator
 - [x] - 073 - Vector - Loop With Iterator & Ranged Loop
 - [x] - 074 - Vector - Count, Sort, Reverse
