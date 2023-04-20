@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 70 From 150 ]
+Uploaded Videos => [ 71 From 150 ]
 
-![46%](https://progress-bar.dev/46/?title=Done)
+![47%](https://progress-bar.dev/47/?title=Done)
 
 ### Introduction & How C++ Works
 
