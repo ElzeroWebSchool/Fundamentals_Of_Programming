@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 71 From 150 ]
+Uploaded Videos => [ 73 From 150 ]
 
-![47%](https://progress-bar.dev/47/?title=Done)
+![48%](https://progress-bar.dev/48/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -107,8 +107,8 @@ Uploaded Videos => [ 71 From 150 ]
 - [x] `Uploaded` - 069 - Vector - Access, Add, Update & Delete Elements
 - [x] `Uploaded` - 070 - Vector - Functions
 - [x] `Uploaded` - 071 - Vector - Iterator & Why To Use
-- [x] - 072 - Vector - Traversing With Iterator
-- [x] - 073 - Vector - Loop With Iterator & Ranged Loop
+- [x] `Uploaded` - 072 - Vector - Traversing With Iterator
+- [x] `Uploaded` - 073 - Vector - Loop With Iterator & Ranged Loop
 - [x] - 074 - Vector - Count, Sort, Reverse
 
 ### Pointers And References
