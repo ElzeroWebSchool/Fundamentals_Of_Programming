@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 73 From 150 ]
+Uploaded Videos => [ 74 From 150 ]
 
-![48%](https://progress-bar.dev/48/?title=Done)
+![49%](https://progress-bar.dev/49/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -100,7 +100,7 @@ Uploaded Videos => [ 73 From 150 ]
 - [x] `Uploaded` - 065 - Function Overloading
 - [x] `Uploaded` - 066 - Function Recursion
 
-### Vector
+### Containers - Vector
 
 - [x] `Uploaded` - 067 - Vector - What Is Vector
 - [x] `Uploaded` - 068 - Vector - Versus Array
@@ -109,7 +109,7 @@ Uploaded Videos => [ 73 From 150 ]
 - [x] `Uploaded` - 071 - Vector - Iterator & Why To Use
 - [x] `Uploaded` - 072 - Vector - Traversing With Iterator
 - [x] `Uploaded` - 073 - Vector - Loop With Iterator & Ranged Loop
-- [x] - 074 - Vector - Count, Sort, Reverse
+- [x] `Uploaded` - 074 - Vector - Count, Sort, Reverse
 
 ### Pointers And References
 
