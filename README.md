@@ -175,9 +175,13 @@ Uploaded Videos => [ 74 From 150 ]
 - [ ] -
 - [ ] -
 
-### Solving 180 Problems [ Easy Level ] [ Separate Playlist ] 1 Video = 3 Problems
+### Solving 105 Problems [ Easy Level ] [ Separate Playlist ] 1 Video = 3 Problems
 
-- [x] 01
+Uploaded Videos => [ 01 From 35 ]
+
+![2%](https://progress-bar.dev/2/?title=Done)
+
+- [x] `Uploaded` - 01 - Introduction
 - [x] 02
 - [x] 03
 - [x] 04
@@ -194,49 +198,24 @@ Uploaded Videos => [ 74 From 150 ]
 - [x] 15
 - [x] 16
 - [x] 17
-- [ ] 18
-- [ ] 19
-- [ ] 20
-- [ ] 21
-- [ ] 22
-- [ ] 23
-- [ ] 24
-- [ ] 25
-- [ ] 26
-- [ ] 27
-- [ ] 28
-- [ ] 29
-- [ ] 30
-- [ ] 31
-- [ ] 32
-- [ ] 33
-- [ ] 34
-- [ ] 35
-- [ ] 36
-- [ ] 37
-- [ ] 38
-- [ ] 39
-- [ ] 40
-- [ ] 41
-- [ ] 42
-- [ ] 43
-- [ ] 44
-- [ ] 45
-- [ ] 46
-- [ ] 47
-- [ ] 48
-- [ ] 49
-- [ ] 50
-- [ ] 51
-- [ ] 52
-- [ ] 53
-- [ ] 54
-- [ ] 55
-- [ ] 56
-- [ ] 57
-- [ ] 58
-- [ ] 59
-- [ ] 60
+- [x] 18
+- [x] 19
+- [x] 20
+- [x] 21
+- [x] 22
+- [x] 23
+- [x] 24
+- [x] 25
+- [x] 26
+- [x] 27
+- [x] 28
+- [x] 29
+- [x] 30
+- [x] 31
+- [x] 32
+- [x] 33
+- [x] 34
+- [x] 35
 
 ### Implement 60 Function [ Separate Playlist ]
 
