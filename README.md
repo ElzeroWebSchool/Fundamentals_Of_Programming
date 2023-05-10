@@ -177,6 +177,10 @@ Uploaded Videos => [ 74 From 150 ]
 
 ### Solving 105 Problems [ Very Easy Level ] [ Separate Playlist ] 1 Video = 3 Problems
 
+Playlist: [https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7gru)
+
+Problems Page: [https://elzero.org/study/cplusplus-study-plan/](https://elzero.org/problems-solving-level-one/)
+
 Uploaded Videos => [ 01 From 35 ]
 
 ![2%](https://progress-bar.dev/2/?title=Done)
