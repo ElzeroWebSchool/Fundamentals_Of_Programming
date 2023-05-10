@@ -183,10 +183,10 @@ Problems Page: [https://elzero.org/problems-solving-level-one/](https://elzero.o
 
 Uploaded Videos => [ 01 From 35 ]
 
-![2%](https://progress-bar.dev/2/?title=Done)
+![5%](https://progress-bar.dev/5/?title=Done)
 
 - [x] `Uploaded` - 01 - Introduction
-- [x] 02
+- [x] `Uploaded` - 02 - Codewars 8Kyu - 3 Problems
 - [x] 03
 - [x] 04
 - [x] 05
