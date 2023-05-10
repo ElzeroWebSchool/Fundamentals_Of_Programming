@@ -186,7 +186,7 @@ Uploaded Videos => [ 01 From 35 ]
 ![5%](https://progress-bar.dev/5/?title=Done)
 
 - [x] `Uploaded` - 01 - Introduction
-- [x] `Uploaded` - 02 - Codewars 8Kyu - 3 Problems
+- [x] `Uploaded` - 02 - Codewars 8 Kyu - 3 Problems
 - [x] 03
 - [x] 04
 - [x] 05
