@@ -175,7 +175,7 @@ Uploaded Videos => [ 74 From 150 ]
 - [ ] -
 - [ ] -
 
-### Solving 105 Problems [ Easy Level ] [ Separate Playlist ] 1 Video = 3 Problems
+### Solving 105 Problems [ Very Easy Level ] [ Separate Playlist ] 1 Video = 3 Problems
 
 Uploaded Videos => [ 01 From 35 ]
 
