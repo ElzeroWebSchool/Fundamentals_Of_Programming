@@ -183,15 +183,15 @@ Problems Page: [https://elzero.org/problems-solving-level-one/](https://elzero.o
 
 Uploaded Videos => [ 01 From 35 ]
 
-![5%](https://progress-bar.dev/5/?title=Done)
+![20%](https://progress-bar.dev/20/?title=Done)
 
 - [x] `Uploaded` - 01 - Introduction
 - [x] `Uploaded` - 02 - Codewars 8 Kyu - 3 Problems
-- [x] 03
-- [x] 04
-- [x] 05
-- [x] 06
-- [x] 07
+- [x] `Uploaded` - 03 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 04 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 05 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 06 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 07 - Codewars 8 Kyu - 3 Problems
 - [x] 08
 - [x] 09
 - [x] 10
