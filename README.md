@@ -181,9 +181,9 @@ Playlist: [https://www.youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7
 
 Problems Page: [https://elzero.org/problems-solving-level-one/](https://elzero.org/problems-solving-level-one/)
 
-Uploaded Videos => [ 07 From 35 ]
+Uploaded Videos => [ 08 From 35 ]
 
-![20%](https://progress-bar.dev/20/?title=Done)
+![22%](https://progress-bar.dev/22/?title=Done)
 
 - [x] `Uploaded` - 01 - Introduction
 - [x] `Uploaded` - 02 - Codewars 8 Kyu - 3 Problems
@@ -192,7 +192,7 @@ Uploaded Videos => [ 07 From 35 ]
 - [x] `Uploaded` - 05 - Codewars 8 Kyu - 3 Problems
 - [x] `Uploaded` - 06 - Codewars 8 Kyu - 3 Problems
 - [x] `Uploaded` - 07 - Codewars 8 Kyu - 3 Problems
-- [x] 08
+- [x] `Uploaded` - 08 - Codewars 8 Kyu - 3 Problems
 - [x] 09
 - [x] 10
 - [x] 11
