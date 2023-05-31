@@ -113,12 +113,16 @@ Uploaded Videos => [ 74 From 150 ]
 
 ### Pointers And References
 
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] What Is Pointers ?
+- [ ] Raw Versus Smart Pointers
+- [ ] Pointers and Arrays
+- [ ] Void Pointer And Why We Need 
+- [ ] Pointers To Pointers
+- [ ] Array Of Pointers
+- [ ] Passing Pointers To Function
+- [ ] Return Pointer From Function
+- [ ] Pointers Use Cases
+- [ ] 
 
 ## Containers Overview
 
@@ -164,7 +168,7 @@ Uploaded Videos => [ 74 From 150 ]
 - [ ] String Literals
 - [ ] Inline Function => Lambda Expression
 - [ ] Switch With Range
-- [ ] -
+- [ ] 
 - [ ] -
 - [ ] -
 - [ ] -
@@ -181,9 +185,9 @@ Playlist: [https://www.youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7
 
 Problems Page: [https://elzero.org/problems-solving-level-one/](https://elzero.org/problems-solving-level-one/)
 
-Uploaded Videos => [ 08 From 35 ]
+Uploaded Videos => [ 16 From 35 ]
 
-![22%](https://progress-bar.dev/22/?title=Done)
+![45%](https://progress-bar.dev/45/?title=Done)
 
 - [x] `Uploaded` - 01 - Introduction
 - [x] `Uploaded` - 02 - Codewars 8 Kyu - 3 Problems
@@ -193,14 +197,14 @@ Uploaded Videos => [ 08 From 35 ]
 - [x] `Uploaded` - 06 - Codewars 8 Kyu - 3 Problems
 - [x] `Uploaded` - 07 - Codewars 8 Kyu - 3 Problems
 - [x] `Uploaded` - 08 - Codewars 8 Kyu - 3 Problems
-- [x] 09
-- [x] 10
-- [x] 11
-- [x] 12
-- [x] 13
-- [x] 14
-- [x] 15
-- [x] 16
+- [x] `Uploaded` - 09 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 10 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 11 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 12 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 13 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 14 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 15 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 16 - Codewars 8 Kyu - 3 Problems
 - [x] 17
 - [x] 18
 - [x] 19
