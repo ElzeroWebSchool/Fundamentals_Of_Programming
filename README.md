@@ -113,16 +113,19 @@ Uploaded Videos => [ 74 From 150 ]
 
 ### Pointers And References
 
-- [x] 075 - What Are Pointers ?
-- [ ] Raw Versus Smart Pointers
+- [x] 075 - Pointers - What Are Pointers ?
+- [ ] 076 - Pointers - Pointing To Array
+- [ ] -
 - [ ] Pointers and Arrays
 - [ ] Void Pointer And Why We Need 
-- [ ] Pointers To Pointers
+- [ ] Double Pointers
+- [ ] Void And Null Pointer
 - [ ] Array Of Pointers
 - [ ] Passing Pointers To Function
 - [ ] Return Pointer From Function
 - [ ] Pointers Use Cases
 - [ ] -
+- [ ] Raw Versus Smart Pointers
 
 ## Containers Overview
 
