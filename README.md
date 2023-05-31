@@ -113,9 +113,9 @@ Uploaded Videos => [ 74 From 150 ]
 
 ### Pointers And References
 
-- [x] 075 - Pointers - What Are Pointers ?
-- [ ] 076 - Pointers - Pointing To Array
-- [ ] -
+- [x] 075 - What Are Pointers ?
+- [x] 076 - Pointing To Array
+- [ ] 077 - Swap Values With Pointer
 - [ ] Pointers and Arrays
 - [ ] Void Pointer And Why We Need 
 - [ ] Double Pointers
