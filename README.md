@@ -113,7 +113,7 @@ Uploaded Videos => [ 74 From 150 ]
 
 ### Pointers And References
 
-- [ ] What Is Pointers ?
+- [x] 075 - What Are Pointers ?
 - [ ] Raw Versus Smart Pointers
 - [ ] Pointers and Arrays
 - [ ] Void Pointer And Why We Need 
@@ -122,7 +122,7 @@ Uploaded Videos => [ 74 From 150 ]
 - [ ] Passing Pointers To Function
 - [ ] Return Pointer From Function
 - [ ] Pointers Use Cases
-- [ ] 
+- [ ] -
 
 ## Containers Overview
 
