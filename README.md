@@ -116,16 +116,16 @@ Uploaded Videos => [ 74 From 150 ]
 - [x] 075 - What Are Pointers ?
 - [x] 076 - Pointing To Array
 - [x] 077 - Void Pointer, Wild Pointer And Null
-- [ ] Pointers and Arrays
-- [ ] Void Pointer And Why We Need 
+- [x] 078 - Pointers Arithmetic And Arrays
+- [ ] -
 - [ ] Double Pointers
-- [ ] Void And Null Pointer
+- [ ] -
 - [ ] Array Of Pointers
 - [ ] Passing Pointers To Function
 - [ ] Return Pointer From Function
 - [ ] Pointers Use Cases
 - [ ] -
-- [ ] Raw Versus Smart Pointers
+- [ ] Smart Pointers
 
 ## Containers Overview
 
