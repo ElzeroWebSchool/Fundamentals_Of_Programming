@@ -117,10 +117,11 @@ Uploaded Videos => [ 74 From 150 ]
 - [x] 076 - Pointing To Array
 - [x] 077 - Void Pointer, Wild Pointer And Null
 - [x] 078 - Pointers Arithmetic And Arrays
+- [ ] 079 - Array Of Pointers - Dynamic Data Structure
+- [ ] 080 - Array Of Pointers - Sorting Compare
+- [ ] 081 - Double Pointers
 - [ ] -
-- [ ] Double Pointers
-- [ ] -
-- [ ] Array Of Pointers
+- [ ] 
 - [ ] Passing Pointers To Function
 - [ ] Return Pointer From Function
 - [ ] Pointers Use Cases
