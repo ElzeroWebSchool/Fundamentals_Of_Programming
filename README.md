@@ -189,7 +189,7 @@ Playlist: [https://www.youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7
 
 Problems Page: [https://elzero.org/problems-solving-level-one/](https://elzero.org/problems-solving-level-one/)
 
-Uploaded Videos => [ 17 From 35 ]
+Uploaded Videos => [ 24 From 35 ]
 
 ![68%](https://progress-bar.dev/68/?title=Done)
 
