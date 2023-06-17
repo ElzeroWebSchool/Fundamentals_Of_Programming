@@ -6,9 +6,9 @@ Playlist: https://www.youtube.com/watch?v=XDuWyYxksXU&amp;list=PLDoPjvoNmBAwy-rS
 
 Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
-Uploaded Videos => [ 74 From 150 ]
+Uploaded Videos => [ 78 From 150 ]
 
-![49%](https://progress-bar.dev/49/?title=Done)
+![52%](https://progress-bar.dev/52/?title=Done)
 
 ### Introduction & How C++ Works
 
@@ -113,10 +113,10 @@ Uploaded Videos => [ 74 From 150 ]
 
 ### Pointers And References
 
-- [x] 075 - What Are Pointers ?
-- [x] 076 - Pointing To Array
-- [x] 077 - Void Pointer, Wild Pointer And Null
-- [x] 078 - Pointers Arithmetic And Arrays
+- [x] `Uploaded` - 075 - What Are Pointers ?
+- [x] `Uploaded` - 076 - Pointing To Array
+- [x] `Uploaded` - 077 - Void Pointer, Wild Pointer And Null
+- [x] `Uploaded` - 078 - Pointers Arithmetic And Arrays
 - [ ] 079 - Array Of Pointers - Dynamic Data Structure
 - [ ] 080 - Array Of Pointers - Sorting Compare
 - [ ] 081 - Double Pointers
@@ -191,7 +191,7 @@ Problems Page: [https://elzero.org/problems-solving-level-one/](https://elzero.o
 
 Uploaded Videos => [ 17 From 35 ]
 
-![48%](https://progress-bar.dev/48/?title=Done)
+![68%](https://progress-bar.dev/68/?title=Done)
 
 - [x] `Uploaded` - 01 - Introduction
 - [x] `Uploaded` - 02 - Codewars 8 Kyu - 3 Problems
@@ -210,13 +210,13 @@ Uploaded Videos => [ 17 From 35 ]
 - [x] `Uploaded` - 15 - Codewars 8 Kyu - 3 Problems
 - [x] `Uploaded` - 16 - Codewars 8 Kyu - 3 Problems
 - [x] `Uploaded` - 17 - Codewars 8 Kyu - 3 Problems
-- [x] 18
-- [x] 19
-- [x] 20
-- [x] 21
-- [x] 22
-- [x] 23
-- [x] 24
+- [x] `Uploaded` - 18 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 19 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 20 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 21 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 22 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 23 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 24 - Codewars 8 Kyu - 3 Problems
 - [x] 25
 - [x] 26
 - [x] 27
