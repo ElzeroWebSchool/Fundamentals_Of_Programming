@@ -189,9 +189,9 @@ Playlist: [https://www.youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7
 
 Problems Page: [https://elzero.org/problems-solving-level-one/](https://elzero.org/problems-solving-level-one/)
 
-Uploaded Videos => [ 27 From 35 ]
+Uploaded Videos => [ 35 From 35 ]
 
-![77%](https://progress-bar.dev/77/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 
 - [x] `Uploaded` - 01 - Introduction
 - [x] `Uploaded` - 02 - Codewars 8 Kyu - 3 Problems
@@ -220,14 +220,14 @@ Uploaded Videos => [ 27 From 35 ]
 - [x] `Uploaded` - 25 - Codewars 8 Kyu - 3 Problems
 - [x] `Uploaded` - 26 - Codewars 8 Kyu - 3 Problems
 - [x] `Uploaded` - 27 - Codewars 8 Kyu - 3 Problems
-- [x] 28
-- [x] 29
-- [x] 30
-- [x] 31
-- [x] 32
-- [x] 33
-- [x] 34
-- [x] 35
+- [x] `Uploaded` - 28 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 29 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 30 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 31 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 32 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 33 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 34 - Codewars 8 Kyu - 3 Problems
+- [x] `Uploaded` - 35 - Codewars 8 Kyu - 3 Problems
 
 ### Implement 60 Function [ Separate Playlist ]
 
