@@ -13,7 +13,7 @@ Uploaded Videos => [ 78 From 150 ]
 ### Introduction & How C++ Works
 
 - [x] `Uploaded` - 001 - Important Introduction About The Course
-- [x] `Uploaded` - 002 - Why C++
+- [x] `
 - [x] `Uploaded` - 003 - Choose Editor, Install Compiler And Debugger
 - [x] `Uploaded` - 004 - Install Visual Studio IDE and Answer Questions
 - [x] `Uploaded` - 005 - How The C++ Works
