@@ -229,7 +229,7 @@ Uploaded Videos => [ 35 From 35 ]
 - [x] `Uploaded` - 34 - Codewars 8 Kyu - 3 Problems
 - [x] `Uploaded` - 35 - Codewars 8 Kyu - 3 Problems
 
-### Implement 60 Function [ Separate Playlist ]
+### Implement 65 Function [ Separate Playlist ]
 
 - [ ] 01 => Reverse
 - [ ] 02 => Replace
@@ -291,3 +291,8 @@ Uploaded Videos => [ 35 From 35 ]
 - [ ] 58
 - [ ] 59
 - [ ] 60
+- [ ] 61
+- [ ] 62
+- [ ] 63
+- [ ] 64
+- [ ] 65
