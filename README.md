@@ -231,34 +231,34 @@ Uploaded Videos => [ 35 From 35 ]
 
 ### Implement 60 Function [ Separate Playlist ]
 
-- [ ] 01 => Reverse
+- [ ] 01 => Introduction
 - [ ] 02 => Replace
-- [ ] 03
-- [ ] 04
-- [ ] 05
-- [ ] 06
-- [ ] 07
-- [ ] 08
-- [ ] 09
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
-- [ ] 14
-- [ ] 15
-- [ ] 16
-- [ ] 17
-- [ ] 18
-- [ ] 19
-- [ ] 20
-- [ ] 21
-- [ ] 22
-- [ ] 23
-- [ ] 24
-- [ ] 25
-- [ ] 26
-- [ ] 27
-- [ ] 28
+- [ ] 03 => zFill
+- [ ] 04 => Reverse
+- [ ] 05 => Generate Range Of Letters
+- [ ] 06 => Get Minimum And Maximum Number
+- [ ] 07 => Get Sum Of Numbers
+- [ ] 08 => UpperCase, LowerCase, SwapCase
+- [ ] 09 => Parse Integer
+- [ ] 10 => IsNaN
+- [ ] 11 => Trim String
+- [ ] 12 => Get Sub String
+- [ ] 13 => Clean String
+- [ ] 14 => Parse String
+- [ ] 15 => Words Count
+- [ ] 16 => Check If First Letter Is Capital
+- [ ] 17 => If In Array
+- [ ] 18 => Round, Floor, Ceil
+- [ ] 19 => Join Elements
+- [ ] 20 => Fill Container
+- [ ] 21 => Create Range
+- [ ] 22 => String Slice
+- [ ] 23 => Chr, Ord
+- [ ] 24 => String Starts With
+- [ ] 25 => Push Items To Vector
+- [ ] 26 => Money Format
+- [ ] 27 => Replace String In Vector
+- [ ] 28 => Generate Characters
 - [ ] 29
 - [ ] 30
 - [ ] 31
